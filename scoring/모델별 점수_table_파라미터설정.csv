@@ -1,0 +1,7 @@
+,Model,Accuarcy,Best HyperParameter,Log_loss,Time
+0,GBM,0.81612,"{'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 200, 'subsample': 0.75}",0.49025,19147.941402196884
+1,RandomForest,0.7107,"{'max_depth': 12, 'min_samples_leaf': 5, 'min_samples_split': 5, 'n_estimators': 200}",0.78722,150.8877067565918
+2,DecisionTree,0.48657,"{'max_depth': 5, 'max_features': 12, 'min_samples_leaf': 5, 'min_samples_split': 5}",0.96198,65.37943649291992
+3,LightGBM,0.81069,"{'bagging_fraction': 0.7, 'feature_fraction': 0.7, 'learning_rate': 0.1, 'max_depth': 12, 'n_estimators': 400, 'num_class': 3, 'num_leaves': 31, 'objective': 'multiclass'}",0.51898,67.8573579788208
+4,XGBoost,0.82097,"{'eval_metric': 'mlogloss', 'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 400, 'objective': 'multi:softprob'}",0.47674,2357.6460921764374
+5,Voting,0.82456,-,0.47715,129.77677178382874
