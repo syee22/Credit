@@ -7,9 +7,10 @@ raw data 의 변수
 # 파생변수 생성
 <img width="680" alt="파생변수1" src="https://user-images.githubusercontent.com/108845232/195587646-1cc24994-5782-49ac-99bc-f29bac97b954.png">
 <img width="677" alt="파생변수2" src="https://user-images.githubusercontent.com/108845232/195587657-0da7e19d-21f2-4067-9060-f990c9dc8b15.png">
+--파생변수는 기존의 변수만으로 분류모델을 구축하는데 어려움이 있다고 판단하여 주관적인 개념을 도입해서 파생변수를 생성 후 카이제곱과 피처중요도 등을 통해 유의한 변수들을
+선정하여 모델에 적용하였다--<br><br>
+# 알고리즘 별로 변수들의 전처리를 다양하게 적용하여 분류 성능을 비교하고자 한다<br>
 
-
-# 알고리즘 별로 변수들의 전처리를 다양하게 적용하여 성능을 비교한 결과<br>
 # GBM
 <img width="513" alt="GBM" src="https://user-images.githubusercontent.com/108845232/195584078-c42edc49-691f-4416-856f-9960969c69b4.png"><br>
 # RandomForest
