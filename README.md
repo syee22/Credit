@@ -11,17 +11,17 @@ raw data 의 변수
 
 # 알고리즘 별로 변수들의 전처리를 다양하게 적용하여 성능을 비교한 결과<br>
 # GBM
-<img width="513" alt="GBM" src="https://user-images.githubusercontent.com/108845232/195584078-c42edc49-691f-4416-856f-9960969c69b4.png">
+<img width="513" alt="GBM" src="https://user-images.githubusercontent.com/108845232/195584078-c42edc49-691f-4416-856f-9960969c69b4.png"><br>
 # RandomForest
-<img width="544" alt="RF" src="https://user-images.githubusercontent.com/108845232/195584172-c8396432-3756-4019-8dd7-6313d7be34ca.png">
+<img width="544" alt="RF" src="https://user-images.githubusercontent.com/108845232/195584172-c8396432-3756-4019-8dd7-6313d7be34ca.png"><br>
 # DecisonTree
-<img width="538" alt="DT" src="https://user-images.githubusercontent.com/108845232/195584200-14c978fd-0758-468b-b85a-51b72fde36a3.png">
+<img width="538" alt="DT" src="https://user-images.githubusercontent.com/108845232/195584200-14c978fd-0758-468b-b85a-51b72fde36a3.png"><br>
 # XGBClassifier
-<img width="510" alt="XGB" src="https://user-images.githubusercontent.com/108845232/195584236-9e85283b-91aa-41b4-be05-598951b56303.png">
+<img width="510" alt="XGB" src="https://user-images.githubusercontent.com/108845232/195584236-9e85283b-91aa-41b4-be05-598951b56303.png"><br>
 # LGBMClassifier
-<img width="507" alt="LGBM" src="https://user-images.githubusercontent.com/108845232/195584270-58eef2dc-6960-4067-ac58-91b6027ff961.png">
+<img width="507" alt="LGBM" src="https://user-images.githubusercontent.com/108845232/195584270-58eef2dc-6960-4067-ac58-91b6027ff961.png"><br>
 # Soft Voting
-<img width="424" alt="softVoting" src="https://user-images.githubusercontent.com/108845232/195584311-a4826981-04f4-4052-9bfe-9ddd640c6951.png">
+<img width="424" alt="softVoting" src="https://user-images.githubusercontent.com/108845232/195584311-a4826981-04f4-4052-9bfe-9ddd640c6951.png"><br>
 <br>
 <해석><br>
 보통 분류예측에서는 모델의 정확도로 성능을 평가하지만 logloss를 이용하여 어느정도의 확신을 가지고 분류예측을 수행했는지를 함께 분석하여 얼마나 잘 예측되었는지를 평가할 수 있다.
